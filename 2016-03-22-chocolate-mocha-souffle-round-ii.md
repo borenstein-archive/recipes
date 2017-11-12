@@ -61,3 +61,5 @@ tags:
 The muffin is pretty good in its own right, definitely more portable and convenient, and would make a reasonable breakfast (whereas the pudding/mousse feels absurdly decadent, even though they are nutritionally identical). So don’t write off the muffins, but definitely keep that mousse in mind—it is amazing.
 
 Note: the pudding tastes plenty sweet as it is. The muffins, however, taste a bit undersweet.
+Note (2017/11/12): Using a vitamix results in a much thinner batter. If making as a mousse, use the food processor.
+Note (2017/11/12): Using 1 tsp instant coffee instead of 1 tbsp coffee powder is a little weak on the coffee flavor. Try 1/2 tbsp.  
