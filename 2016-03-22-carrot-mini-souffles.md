@@ -57,4 +57,4 @@ Ingredients:
   * 2 tbsp butter
   * 1 tsp baking powder
 
-Preheat oven to 350. Steam the carrots for 10-12 minutes, until quite tender. Grind them up in a food processor, then add everything else. Butter muffin pan and pour in batter. Bake for 45 minutes. Allow to cool.
+Preheat oven to 350. Steam the carrots for 10-12 minutes, until quite tender. Grind them up in a food processor, then add everything else. Apply butter (not oil) to muffin pan and pour in batter. Bake for 45 minutes. Allow to cool.
