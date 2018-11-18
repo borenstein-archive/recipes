@@ -45,7 +45,7 @@ tags:
 These were very good. They were a bit mushy on the inside and a bit too dry on the outside—try reducing heat and cooking until dry when poked. Also, try putting half the corn in the food processor instead of a dash. The WF no-salt corn looked and tasted much better—use only that, and adjust salt accordingly.
 
   * ½ cup flour
-  * 1/3 cup cornmeal
+  * 1/3 cup corn flour
   * 3 tbsp sugar
   * 2 tsp baking powder
   * ¼ tsp salt
