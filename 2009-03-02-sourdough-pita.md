@@ -38,50 +38,50 @@ Makes 3-4 pitas. Double or triple as needed.
 </div>
 
 <div>
-  <span style="font-weight: bold;">INGREDIENTS</span>: 
-  
-  <ul>
-    <li>
-      1/2 cup sourdough starter
-    </li>
-    <li>
-      1/4 cup water
-    </li>
-    <li>
-      1 1/2 tsp sugar
-    </li>
-    <li>
-      1/2 tsp salt
-    </li>
-    <li>
-      1 1/2 cups flour (divided use)
-    </li>
-  </ul>
-  
-  <p>
-    <span style="font-weight: bold;">RECIPE:<br /></span> 
-    
-    <ol>
-      <li>
-        In a large bowl, mix sourdough starter, water, sugar and 1/2 cup flour. Add salt.
-      </li>
-      <li>
-        Knead in another 1/2 cup flour. Knead for 5-10 minutes or until the dough forms a springy, cohesive ball. Cover with a damp cloth and let rise for 45-60 minutes.
-      </li>
-      <li>
-        Knead in more flour until you have a firm, but still pliable dough.
-      </li>
-      <li>
-        Cut into 3-4 equal pieces. Roll into balls and let rest for 10 minutes.
-      </li>
-      <li>
-        Preheat the oven to 500°. While the oven is heating, roll the balls into 1/4&#8243; sheets. (Do not roll any thinner than 1/4&#8243;.)
-      </li>
-      <li>
-        Bake for about 5 minutes, or until the pitas suddenly puff up. (They will collapse again once you remove them from heat.)
-      </li>
-    </ol>
-    
-    <p>
+  <span style="font-weight: bold;">INGREDIENTS</span>:
+
+<ul>
+  <li>
+    1/2 cup sourdough starter
+  </li>
+  <li>
+    1/4 cup water
+  </li>
+  <li>
+    1 1/2 tsp sugar
+  </li>
+  <li>
+    1/2 tsp salt
+  </li>
+  <li>
+    1 1/2 cups flour (divided use)
+  </li>
+</ul>
+
+<p>
+  <span style="font-weight: bold;">RECIPE:<br /></span>
+
+<ol>
+  <li>
+    In a large bowl, mix sourdough starter, water, sugar and 1/2 cup flour. Add salt.
+  </li>
+  <li>
+    Knead in another 1/2 cup flour. Knead for 5-10 minutes or until the dough forms a springy, cohesive ball. Cover with a damp cloth and let rise for 45-60 minutes.
+  </li>
+  <li>
+    Knead in more flour until you have a firm, but still pliable dough.
+  </li>
+  <li>
+    Cut into 3-4 equal pieces. Roll into balls and let rest for 10 minutes.
+  </li>
+  <li>
+    Preheat the oven to 500°. While the oven is heating, roll the balls into 1/4&#8243; sheets. (Do not roll any thinner than 1/4&#8243;.)
+  </li>
+  <li>
+    Bake for about 5 minutes, or until the pitas suddenly puff up. (They will collapse again once you remove them from heat.)
+  </li>
+</ol>
+
+<p>
       If eating that day, let cool for a moment then serve immediately. Otherwise, allow to reach room temperature, then freeze in an airtight container or bag.
     </p></div>
