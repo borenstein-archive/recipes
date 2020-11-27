@@ -1,3 +1,5 @@
+# Vegetarian dolma filling
+
 - 2/3 cup textured vegetable protein (TVP)
 - 1 + 1/3 cup basmati rice
 - 1 cup French lentils (the brown ones)
